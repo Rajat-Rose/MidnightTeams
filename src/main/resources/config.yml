@@ -1,0 +1,4 @@
+# MidnightTeams Advanced Configuration
+allow-friendly-fire: false
+allow-ally-friendly-fire: false
+gui-title: "&8» &c&lTeam Management"
